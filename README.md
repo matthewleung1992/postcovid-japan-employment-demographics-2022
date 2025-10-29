@@ -3,7 +3,7 @@
 An end-to-end data analysis project examining employment patterns across industries, age groups, and gender in Japan using government open data. (Obtained through E-Stat, Japan)
 政府オープンデータ（e-Stat）を活用し、日本における産業別・年齢層別・性別の雇用パターンを分析したエンドツーエンドのデータ分析プロジェクト。
 
-**[→ View Interactive Tableau Dashboard / Tableau ダッシュボード](https://public.tableau.com/views/Post-COVIDJapanEmploymentAnalysis2022/)**
+**[→ View Interactive Tableau Dashboard / Tableau ダッシュボード](https://public.tableau.com/views/Post-COVIDJapanEmploymentAnalysis2022/Dashboard)**
 
 ## Summary / 要約
 - Manufacturing, Wholesale & Retail, and Healthcare account for 43% of the workforce (~29M people)
